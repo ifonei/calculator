@@ -85,10 +85,9 @@
         }
     }
 ```
-
---
-Demos
 ---
+
+# Demos
 
  <img src= "https://user-images.githubusercontent.com/95880640/145994845-29c351c8-2563-4914-9fb0-3fa8ce991dba.png" height="500"> 
 
