@@ -3,7 +3,7 @@
 
 ###  ✨Application Features
 - It is a simple iOS app built by Swift, which can perform simple mathematical equations involving adding, subtracting multiplying and dividing.
-- The app takes in account operation priorites when performing calculation.
+- The app takes in account operations priority when performing calculations.
 - More to be done.
 
 ---
